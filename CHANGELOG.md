@@ -1,9 +1,15 @@
 # CHANGELOG
 
 
+## v0.3.0 (2026-02-26)
+
+
 ## v0.2.0 (2026-02-26)
 
 ### Features
+
+- Add calculator function
+  ([`94c644c`](https://github.com/ngavilan-dogfy/semver-test/commit/94c644c6ac556ee11475e08d683e32aedbca89a2))
 
 - Add farewell function
   ([`cf74e15`](https://github.com/ngavilan-dogfy/semver-test/commit/cf74e15a15023db302d936768a49c4fd13788c51))
