@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.0 (2026-02-26)
+
+### Features
+
+- Add farewell function
+  ([`cf74e15`](https://github.com/ngavilan-dogfy/semver-test/commit/cf74e15a15023db302d936768a49c4fd13788c51))
+
+
 ## v0.1.0 (2026-02-26)
 
 ### Chores
