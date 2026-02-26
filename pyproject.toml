@@ -1,6 +1,6 @@
 [project]
 name = "semver-test"
-version = "0.4.0"
+version = "0.5.0"
 description = "Test repo to replicate semantic-release divergence issue"
 requires-python = ">=3.11"
 

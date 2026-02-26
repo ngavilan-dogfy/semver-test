@@ -1,9 +1,15 @@
 # CHANGELOG
 
 
+## v0.5.0 (2026-02-26)
+
+
 ## v0.4.0 (2026-02-26)
 
 ### Features
+
+- Add user authentication
+  ([`c8346a8`](https://github.com/ngavilan-dogfy/semver-test/commit/c8346a84efd299f834c43576a8505bdd25ad10c7))
 
 - Add user authentication
   ([`5e07a0f`](https://github.com/ngavilan-dogfy/semver-test/commit/5e07a0fbb304700e0c29924988d7129fe0ca2f37))
