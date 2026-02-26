@@ -12,3 +12,7 @@ def farewell(name):
 
 def add(a, b):
     return a + b
+
+def authenticate(user, password):
+    """First part: basic auth."""
+    return user == "admin" and password == "secret"
