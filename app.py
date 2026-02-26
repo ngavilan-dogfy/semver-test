@@ -16,3 +16,8 @@ def add(a, b):
 def authenticate(user, password):
     """First part: basic auth."""
     return user == "admin" and password == "secret"
+
+def get_user_role(user):
+    """Second part: role management."""
+    roles = {"admin": "superuser", "guest": "readonly"}
+    return roles.get(user, "unknown")
